@@ -1,6 +1,6 @@
 # Dentistry
 
-This is a personal project where I apply what I learned in a tutorial in order to build a page for a dentistry.
+This is a personal project where I apply what I learned in a tutorial in order to build a single-page-application for a dentistry.
 
 ## Built With
 
