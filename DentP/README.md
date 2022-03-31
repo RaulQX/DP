@@ -1,4 +1,4 @@
-# Restaurant-Web
+# Dentitry
 
 This is a personal project where I apply what I learned in a tutorial in order to build a page for a dentistry.
 
